@@ -16,6 +16,7 @@ Each project is organized in its own folder, with separate README files explaini
 | [`searchtext/`](./searchtext)  | “Search string files”  |
 | [`recognizer/`](./recognizer)  | “SpeechRecognition”  |
 | [`messageSMTP/`](./messageSMTP)  | “SEND messageSMTP”  |
+| [`find_mistakes_inlog/`](./find_mistakes_inlog)  | “SEND messageSMTP”  |
 ---
 
 ## 📝 How to use:
