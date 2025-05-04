@@ -1,4 +1,4 @@
-# 🔍 String Finder Script
+# 🔍 String Finder Script.
 
 A simple Python script that **searches for a specific string inside all files** in a given directory (including subdirectories).
 
