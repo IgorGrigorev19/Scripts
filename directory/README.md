@@ -1,1 +1,1 @@
-Меняем названия всех файлов с помощью скрипта.
+Change the names of all files using a script
