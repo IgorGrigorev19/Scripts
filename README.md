@@ -14,7 +14,7 @@ Each project is organized in its own folder, with separate README files explaini
 | [`findvirus/`](./findvirus) | Scans a directory for files modified/accessed in the last 24 hours. Useful for detecting suspicious changes. |
 | [`directory/`](./directory) | Renames files in a directory based on specified patterns. |
 | [`searchtext/`](./searchtext)  | “Search string files”  |
-| [`recognizer/`](./recognizer)  | “Search string files”  |
+| [`recognizer/`](./recognizer)  | “SpeechRecognition”  |
 
 ---
 
