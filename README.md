@@ -15,7 +15,7 @@ Each project is organized in its own folder, with separate README files explaini
 | [`directory/`](./directory) | Renames files in a directory based on specified patterns. |
 | [`searchtext/`](./searchtext)  | “Search string files”  |
 | [`recognizer/`](./recognizer)  | “SpeechRecognition”  |
-
+| [`messageSMTP/`](./messageSMTP)  | “SEND messageSMTP”  |
 ---
 
 ## 📝 How to use:
