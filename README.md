@@ -18,6 +18,7 @@ Each project is organized in its own folder, with separate README files explaini
 | [`messageSMTP/`](./messageSMTP)  | “SEND messageSMTP”  |
 | [`find_mistakes_inlog/`](./find_mistakes_inlog)  | “FIND ERROR In LOGS”  |
 | [`user_info_script/`](./user_info_script) | Bash script to display detailed user information from /etc/passwd |
+| [`max_string.sh/`](./max_string.sh)    | Extracts and prints the longest printable string from a given file using `strings` |
 ---
 
 ## 📝 How to use:
