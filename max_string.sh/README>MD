@@ -1,0 +1,34 @@
+# 🔍 Max String Extractor
+
+This is a simple Bash utility that scans a given binary (or any file) and finds the **longest printable string** using the `strings` command.  
+It’s useful for inspecting compiled binaries, logs, or unknown files for meaningful content.
+
+---
+
+## 🛠 Features
+
+- Extracts all printable strings using `strings`
+- Finds the longest string in the file
+- Reports the string and its length
+- Works with binary files, executables, logs, etc.
+- Simple Bash — no dependencies
+
+---
+
+## 📦 Requirements
+
+- `bash`
+- `strings` (comes with `binutils` on most Linux distros)
+
+---
+
+## 🚀 Usage
+
+```bash
+./max_string.sh <filename>
+********* MAX STRING Script ********
+Longest string: /usr/lib/ssh/ssh_keys
+Length: 24
+##############################################
+ MAX LENGTH  is: 24
+ LONGEST word is: /usr/lib/ssh/ssh_keys
