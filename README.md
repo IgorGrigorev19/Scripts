@@ -17,6 +17,7 @@ Each project is organized in its own folder, with separate README files explaini
 | [`recognizer/`](./recognizer)  | “SpeechRecognition”  |
 | [`messageSMTP/`](./messageSMTP)  | “SEND messageSMTP”  |
 | [`find_mistakes_inlog/`](./find_mistakes_inlog)  | “FIND ERROR In LOGS”  |
+| [`user_info_script/`](./user_info_script) | Bash script to display detailed user information from /etc/passwd |
 ---
 
 ## 📝 How to use:
